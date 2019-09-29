@@ -1,0 +1,8 @@
+agent
+auth_token
+email
+monitoring_policy
+name
+ports
+processes
+thresholds

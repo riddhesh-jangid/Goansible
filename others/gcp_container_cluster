@@ -1,0 +1,17 @@
+addons_config
+cluster_ipv4_cidr
+description
+logging_service
+master_auth
+monitoring_service
+name
+network
+node_config
+private_cluster_config
+project
+scopes
+service_account_contents
+service_account_email
+service_account_file
+state
+subnetwork

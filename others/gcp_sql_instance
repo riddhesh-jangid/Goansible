@@ -1,0 +1,17 @@
+backend_type
+connection_name
+database_version
+failover_replica
+instance_type
+ipv6_address
+master_instance_name
+max_disk_size
+project
+region
+replica_configuration
+scopes
+service_account_contents
+service_account_email
+service_account_file
+settings
+state

@@ -1,0 +1,15 @@
+access_level
+api_password
+api_token
+api_url
+api_username
+confirm
+external
+group
+isadmin
+login_password
+login_user
+sshkey_file
+sshkey_name
+state
+validate_certs

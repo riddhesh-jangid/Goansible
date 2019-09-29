@@ -1,0 +1,12 @@
+api_password
+api_url
+api_username
+cluster_id
+cluster_name
+im_mad_name
+labels
+state
+template
+validate_certs
+vmm_mad_name
+wait_timeout

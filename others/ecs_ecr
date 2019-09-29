@@ -1,0 +1,13 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+delete_policy
+ec2_url
+force_set_policy
+policy
+profile
+region
+registry_id
+security_token
+state
+validate_certs

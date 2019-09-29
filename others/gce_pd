@@ -1,0 +1,14 @@
+credentials_file
+delete_on_termination
+detach_only
+disk_type
+image
+instance_name
+mode
+pem_file
+project_id
+service_account_email
+size_gb
+snapshot
+state
+zone

@@ -1,0 +1,10 @@
+executable
+from_path
+installdeps
+locallib
+mirror
+mirror_only
+name
+notest
+system_lib
+version

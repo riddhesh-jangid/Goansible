@@ -1,0 +1,12 @@
+authentication
+protocol_name
+provider
+secret
+server_port
+servers
+service_name
+state
+type
+update_secret
+use_for_auth
+validate_certs

@@ -1,0 +1,14 @@
+aws_access_key
+aws_secret_key
+comment
+debug_botocore_endpoint_logs
+delegation_set_id
+ec2_url
+hosted_zone_id
+profile
+region
+security_token
+state
+validate_certs
+vpc_id
+vpc_region

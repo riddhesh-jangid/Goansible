@@ -1,0 +1,8 @@
+bridge_domain_id
+nve_mode
+nve_name
+peer_list_ip
+protocol_type
+source_ip
+state
+vni_id

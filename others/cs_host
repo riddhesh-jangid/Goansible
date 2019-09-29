@@ -1,0 +1,16 @@
+allocation_state
+api_http_method
+api_key
+api_region
+api_secret
+api_timeout
+api_url
+cluster
+host_tags
+hypervisor
+password
+pod
+state
+url
+username
+zone

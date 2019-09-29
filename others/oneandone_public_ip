@@ -1,0 +1,8 @@
+api_url
+datacenter
+reverse_dns
+state
+type
+wait
+wait_interval
+wait_timeout

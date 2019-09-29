@@ -1,0 +1,15 @@
+arguments
+auto_delete
+ca_cert
+client_cert
+client_key
+durable
+exchange_type
+internal
+login_host
+login_password
+login_port
+login_protocol
+login_user
+state
+vhost

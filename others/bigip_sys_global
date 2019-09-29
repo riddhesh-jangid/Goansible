@@ -1,0 +1,12 @@
+banner_text
+console_timeout
+gui_setup
+lcd_display
+mgmt_dhcp
+net_reboot
+provider
+quiet_boot
+security_banner
+server_port
+state
+validate_certs

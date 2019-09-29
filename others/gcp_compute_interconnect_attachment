@@ -1,0 +1,12 @@
+candidate_subnets
+description
+edge_availability_domain
+interconnect
+project
+scopes
+service_account_contents
+service_account_email
+service_account_file
+state
+type
+vlan_tag8021q

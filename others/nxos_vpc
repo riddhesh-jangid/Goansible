@@ -1,0 +1,9 @@
+auto_recovery
+delay_restore
+peer_gw
+pkl_dest
+pkl_src
+pkl_vrf
+provider
+role_priority
+system_priority

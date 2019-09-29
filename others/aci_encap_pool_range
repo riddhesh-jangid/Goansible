@@ -1,0 +1,16 @@
+allocation_mode
+certificate_name
+description
+output_level
+pool
+pool_allocation_mode
+port
+range_end
+range_name
+range_start
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

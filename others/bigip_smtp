@@ -1,0 +1,14 @@
+authentication
+encryption
+from_address
+local_host_name
+partition
+provider
+server_port
+smtp_server
+smtp_server_password
+smtp_server_port
+smtp_server_username
+state
+update_password
+validate_certs

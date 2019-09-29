@@ -1,0 +1,14 @@
+bpdu_filter
+bpdu_protection
+cost
+edged_port
+interface
+loop_protection
+root_protection
+state
+stp_converge
+stp_enable
+stp_mode
+tc_protection
+tc_protection_interval
+tc_protection_threshold

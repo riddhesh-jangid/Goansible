@@ -1,0 +1,8 @@
+advertise_l2vpn_evpn
+advertise_router_type
+as_number
+peer_address
+peer_enable
+peer_group_name
+state
+vpn_name

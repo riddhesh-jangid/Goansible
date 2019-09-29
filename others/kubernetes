@@ -1,0 +1,7 @@
+certificate_authority_data
+file_reference
+insecure
+patch_operation
+url_password
+url_username
+validate_certs

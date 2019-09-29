@@ -1,0 +1,10 @@
+cluster
+datacenter
+gather_nfs_mount_info
+gather_vmfs_mount_info
+hostname
+name
+password
+port
+username
+validate_certs

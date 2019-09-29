@@ -1,0 +1,13 @@
+chdir
+editable
+executable
+extra_args
+name
+requirements
+state
+umask
+version
+virtualenv
+virtualenv_command
+virtualenv_python
+virtualenv_site_packages

@@ -1,0 +1,12 @@
+account_disabled
+account_locked
+description
+fullname
+groups
+groups_action
+password
+password_expired
+password_never_expires
+state
+update_password
+user_cannot_change_password

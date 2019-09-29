@@ -1,0 +1,12 @@
+aws_access_key
+aws_secret_key
+caller_reference
+comment
+debug_botocore_endpoint_logs
+ec2_url
+origin_access_identity_id
+profile
+region
+security_token
+state
+validate_certs

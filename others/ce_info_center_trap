@@ -1,0 +1,8 @@
+channel_id
+module_name
+state
+trap_buff_enable
+trap_buff_size
+trap_enable
+trap_level
+trap_time_stamp

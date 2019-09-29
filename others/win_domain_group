@@ -1,0 +1,13 @@
+attributes
+category
+description
+display_name
+domain_password
+domain_server
+domain_username
+ignore_protection
+managed_by
+organizational_unit
+protect
+scope
+state

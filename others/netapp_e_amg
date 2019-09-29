@@ -1,0 +1,8 @@
+interfaceType
+manualSync
+recoveryWarnThresholdMinutes
+repoUtilizationWarnThreshold
+ssid
+syncIntervalMinutes
+syncWarnThresholdMinutes
+validate_certs

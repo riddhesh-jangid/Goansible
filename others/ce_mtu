@@ -1,0 +1,5 @@
+interface
+jumbo_max
+jumbo_min
+mtu
+state

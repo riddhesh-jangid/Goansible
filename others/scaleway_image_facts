@@ -1,0 +1,5 @@
+api_timeout
+api_token
+api_url
+query_parameters
+validate_certs

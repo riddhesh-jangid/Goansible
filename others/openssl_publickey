@@ -1,0 +1,14 @@
+attributes
+backup
+force
+format
+group
+mode
+owner
+privatekey_passphrase
+selevel
+serole
+setype
+seuser
+state
+unsafe_writes

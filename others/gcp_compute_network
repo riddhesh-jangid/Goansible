@@ -1,0 +1,10 @@
+auto_create_subnetworks
+description
+ipv4_range
+project
+routing_config
+scopes
+service_account_contents
+service_account_email
+service_account_file
+state

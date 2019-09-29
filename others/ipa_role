@@ -1,0 +1,14 @@
+description
+group
+host
+hostgroup
+ipa_host
+ipa_port
+ipa_prot
+ipa_timeout
+ipa_user
+privilege
+service
+state
+user
+validate_certs

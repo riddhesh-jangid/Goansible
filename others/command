@@ -1,0 +1,8 @@
+argv
+chdir
+creates
+removes
+stdin
+stdin_add_newline
+strip_empty_ends
+warn

@@ -1,0 +1,16 @@
+api_timeout
+auth
+auth_type
+availability_zone
+ca_cert
+client_cert
+client_key
+cloud
+hosts
+interface
+metadata
+region_name
+state
+timeout
+validate_certs
+wait

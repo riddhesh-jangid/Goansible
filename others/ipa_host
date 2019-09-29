@@ -1,0 +1,17 @@
+description
+force
+ip_address
+ipa_host
+ipa_port
+ipa_prot
+ipa_timeout
+ipa_user
+mac_address
+ns_hardware_platform
+ns_host_location
+ns_os_version
+random_password
+state
+update_dns
+user_certificate
+validate_certs

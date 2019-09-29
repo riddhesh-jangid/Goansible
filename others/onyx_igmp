@@ -1,0 +1,7 @@
+default_version
+last_member_query_interval
+mrouter_timeout
+port_purge_timeout
+proxy_reporting
+report_suppression_interval
+unregistered_multicast

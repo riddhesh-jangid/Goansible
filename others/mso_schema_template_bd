@@ -1,0 +1,17 @@
+bd
+display_name
+intersite_bum_traffic
+layer2_stretch
+layer2_unknown_unicast
+layer3_multicast
+optimize_wan_bandwidth
+output_level
+port
+state
+subnets
+timeout
+use_proxy
+use_ssl
+username
+validate_certs
+vrf

@@ -1,0 +1,9 @@
+allow_clobber
+allow_prerelease
+maximum_version
+minimum_version
+repository
+required_version
+skip_publisher_check
+state
+url

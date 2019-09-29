@@ -1,0 +1,13 @@
+ca_cert
+db
+login_host
+login_password
+login_unix_socket
+login_user
+named_args
+path_to_script
+port
+positional_args
+query
+session_role
+ssl_mode

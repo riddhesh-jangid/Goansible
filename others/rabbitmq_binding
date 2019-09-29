@@ -1,0 +1,12 @@
+arguments
+ca_cert
+client_cert
+client_key
+login_host
+login_password
+login_port
+login_protocol
+login_user
+routing_key
+state
+vhost

@@ -1,0 +1,8 @@
+access_vlan
+interface
+mode
+native_vlan
+provider
+state
+trunk_allowed_vlans
+trunk_vlans

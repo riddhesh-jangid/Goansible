@@ -1,0 +1,17 @@
+allow_no_value
+attributes
+backup
+create
+group
+mode
+no_extra_spaces
+option
+others
+owner
+selevel
+serole
+setype
+seuser
+state
+unsafe_writes
+value

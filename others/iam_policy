@@ -1,0 +1,11 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+ec2_url
+policy_document
+policy_json
+profile
+region
+security_token
+skip_duplicates
+validate_certs

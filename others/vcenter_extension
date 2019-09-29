@@ -1,0 +1,15 @@
+client_type
+company
+description
+email
+hostname
+name
+password
+port
+server_type
+ssl_thumbprint
+state
+url
+username
+validate_certs
+visible

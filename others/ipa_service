@@ -1,0 +1,9 @@
+force
+hosts
+ipa_host
+ipa_port
+ipa_prot
+ipa_timeout
+ipa_user
+state
+validate_certs

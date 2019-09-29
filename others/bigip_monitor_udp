@@ -1,0 +1,15 @@
+description
+interval
+ip
+parent
+partition
+port
+provider
+receive
+receive_disable
+send
+server_port
+state
+time_until_up
+timeout
+validate_certs

@@ -1,0 +1,11 @@
+certificate_name
+interface_selector
+leaf_profile
+output_level
+port
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

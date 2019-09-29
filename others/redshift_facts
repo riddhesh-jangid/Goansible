@@ -1,0 +1,10 @@
+aws_access_key
+aws_secret_key
+cluster_identifier
+debug_botocore_endpoint_logs
+ec2_url
+profile
+region
+security_token
+tags
+validate_certs

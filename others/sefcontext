@@ -1,0 +1,6 @@
+ftype
+ignore_selinux_state
+reload
+selevel
+seuser
+state

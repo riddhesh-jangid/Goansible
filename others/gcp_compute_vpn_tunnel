@@ -1,0 +1,11 @@
+description
+ike_version
+local_traffic_selector
+project
+remote_traffic_selector
+router
+scopes
+service_account_contents
+service_account_email
+service_account_file
+state

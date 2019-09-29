@@ -1,0 +1,16 @@
+cache_name
+enable_cache
+enable_dns_express
+enable_dns_firewall
+enable_dnssec
+enable_gtm
+enable_zone_transfer
+parent
+partition
+process_recursion_desired
+provider
+server_port
+state
+unhandled_query_action
+use_local_bind
+validate_certs

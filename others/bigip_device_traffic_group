@@ -1,0 +1,11 @@
+auto_failback
+auto_failback_time
+ha_group
+ha_load_factor
+ha_order
+mac_address
+partition
+provider
+server_port
+state
+validate_certs

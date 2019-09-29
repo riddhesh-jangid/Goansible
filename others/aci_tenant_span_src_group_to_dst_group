@@ -1,0 +1,13 @@
+certificate_name
+description
+dst_group
+output_level
+port
+src_group
+state
+tenant
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

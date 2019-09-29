@@ -1,0 +1,12 @@
+advanced
+block_all_ports
+description
+hostname
+lacp
+name
+netflow_enabled
+password
+port
+username
+validate_certs
+vlan_trunk_range

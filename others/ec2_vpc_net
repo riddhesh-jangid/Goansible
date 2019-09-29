@@ -1,0 +1,16 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+dhcp_opts_id
+dns_hostnames
+dns_support
+ec2_url
+multi_ok
+profile
+purge_cidrs
+region
+security_token
+state
+tags
+tenancy
+validate_certs

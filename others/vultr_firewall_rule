@@ -1,0 +1,12 @@
+api_account
+api_endpoint
+api_key
+api_retries
+api_timeout
+cidr
+end_port
+ip_version
+protocol
+start_port
+state
+validate_certs

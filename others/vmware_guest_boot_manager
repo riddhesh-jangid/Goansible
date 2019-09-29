@@ -1,0 +1,16 @@
+boot_delay
+boot_firmware
+boot_order
+boot_retry_delay
+boot_retry_enabled
+enter_bios_setup
+hostname
+name
+name_match
+password
+port
+secure_boot_enabled
+use_instance_uuid
+username
+uuid
+validate_certs

@@ -1,0 +1,14 @@
+access_vlan
+active
+aggregate
+description
+enhanced_layer
+filter_input
+filter_output
+mode
+name
+native_vlan
+provider
+state
+trunk_vlans
+unit

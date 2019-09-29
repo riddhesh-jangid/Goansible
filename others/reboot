@@ -1,0 +1,7 @@
+connect_timeout
+msg
+post_reboot_delay
+pre_reboot_delay
+reboot_timeout
+search_paths
+test_command

@@ -1,0 +1,11 @@
+addr
+area
+auth_key_id
+auth_mode
+auth_text_md5
+auth_text_simple
+mask
+max_load_balance
+nexthop_addr
+nexthop_weight
+state

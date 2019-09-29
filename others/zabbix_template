@@ -1,0 +1,10 @@
+clear_templates
+http_login_password
+link_templates
+macros
+state
+template_groups
+template_json
+template_name
+timeout
+validate_certs

@@ -1,0 +1,17 @@
+auto_delete
+body
+content_type
+durable
+exchange
+exclusive
+headers
+host
+password
+port
+proto
+queue
+routing_key
+src
+url
+username
+vhost

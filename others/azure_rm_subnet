@@ -1,0 +1,17 @@
+ad_user
+address_prefix_cidr
+adfs_authority_url
+api_profile
+auth_source
+cert_validation_mode
+client_id
+cloud_environment
+password
+profile
+route_table
+secret
+security_group
+service_endpoints
+state
+subscription_id
+tenant

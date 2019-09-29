@@ -1,0 +1,12 @@
+cidr
+output_level
+port
+primary
+region
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs
+vrf

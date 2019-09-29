@@ -1,0 +1,14 @@
+attributes
+dest
+exclude_path
+force_archive
+format
+group
+mode
+owner
+remove
+selevel
+serole
+setype
+seuser
+unsafe_writes

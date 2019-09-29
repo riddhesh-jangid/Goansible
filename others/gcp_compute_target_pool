@@ -1,0 +1,12 @@
+backup_pool
+description
+failover_ratio
+health_check
+instances
+project
+scopes
+service_account_contents
+service_account_email
+service_account_file
+session_affinity
+state

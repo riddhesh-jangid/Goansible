@@ -1,0 +1,12 @@
+ca_cert
+db
+fail_on_role
+login_host
+login_password
+login_unix_socket
+login_user
+obj_name
+port
+reassign_owned_by
+session_role
+ssl_mode

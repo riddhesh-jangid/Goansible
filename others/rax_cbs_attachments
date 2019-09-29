@@ -1,0 +1,13 @@
+api_key
+auth_endpoint
+credentials
+device
+env
+identity_type
+region
+tenant_id
+tenant_name
+username
+validate_certs
+wait
+wait_timeout

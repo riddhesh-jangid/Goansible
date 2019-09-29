@@ -1,0 +1,8 @@
+hostname
+password
+state
+state_change_timeout
+username
+uuid
+validate_certs
+wait_for_ip_address

@@ -1,0 +1,16 @@
+assume_role_policy_document
+aws_access_key
+aws_secret_key
+boundary
+create_instance_profile
+debug_botocore_endpoint_logs
+description
+ec2_url
+managed_policy
+path
+profile
+purge_policies
+region
+security_token
+state
+validate_certs

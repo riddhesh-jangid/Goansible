@@ -1,0 +1,12 @@
+cluster
+db
+expired
+ldap
+login_password
+login_user
+password
+port
+profile
+resource_pool
+roles
+state

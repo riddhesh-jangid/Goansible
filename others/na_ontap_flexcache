@@ -1,0 +1,17 @@
+aggr_list
+aggr_list_multiplier
+auto_provision_as
+force_offline
+force_unmount
+http_port
+https
+junction_path
+ontapi
+origin_cluster
+origin_volume
+origin_vserver
+size
+size_unit
+state
+time_out
+validate_certs

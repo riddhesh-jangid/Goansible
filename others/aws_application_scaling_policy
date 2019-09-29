@@ -1,0 +1,13 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+ec2_url
+maximum_tasks
+minimum_tasks
+override_task_capacity
+profile
+region
+security_token
+step_scaling_policy_configuration
+target_tracking_scaling_policy_configuration
+validate_certs

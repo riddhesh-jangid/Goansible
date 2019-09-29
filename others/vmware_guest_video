@@ -1,0 +1,16 @@
+datacenter
+display_number
+enable_3D
+folder
+gather_video_facts
+hostname
+memory_3D_mb
+name
+password
+port
+renderer_3D
+use_auto_detect
+username
+uuid
+validate_certs
+video_memory_mb

@@ -1,0 +1,12 @@
+api_key
+application
+destination_ip
+destination_port
+destination_zone
+devicegroup
+protocol
+source_ip
+source_port
+source_zone
+tag_name
+username

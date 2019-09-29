@@ -1,0 +1,14 @@
+auth_file
+build
+ca_cert_dir
+executable
+force
+password
+path
+pull
+push
+push_args
+state
+tag
+username
+validate_certs

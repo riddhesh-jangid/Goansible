@@ -1,0 +1,16 @@
+address
+availability_requirements
+limits
+link
+monitors
+name
+partition
+port
+provider
+server_name
+server_port
+state
+translation_address
+translation_port
+validate_certs
+virtual_server_dependencies

@@ -1,0 +1,9 @@
+hostname
+interval_past_day
+interval_past_month
+interval_past_week
+interval_past_year
+password
+port
+username
+validate_certs

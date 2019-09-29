@@ -1,0 +1,8 @@
+deploy
+force
+functions
+region
+serverless_bin_path
+stage
+state
+verbose

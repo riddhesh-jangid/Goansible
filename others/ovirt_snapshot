@@ -1,0 +1,14 @@
+description
+disk_id
+disk_name
+download_image_path
+fetch_nested
+keep_days_old
+nested_attributes
+poll_interval
+snapshot_id
+state
+timeout
+upload_image_path
+use_memory
+wait

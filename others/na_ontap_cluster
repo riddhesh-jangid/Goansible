@@ -1,0 +1,10 @@
+cluster_ip_address
+cluster_name
+http_port
+https
+license_code
+license_package
+node_serial_number
+ontapi
+state
+validate_certs

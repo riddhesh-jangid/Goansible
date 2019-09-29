@@ -1,0 +1,16 @@
+address
+admin_status
+failover_policy
+firewall_policy
+home_node
+home_port
+http_port
+https
+is_auto_revert
+netmask
+ontapi
+protocols
+role
+state
+subnet_name
+validate_certs

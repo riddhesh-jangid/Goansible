@@ -1,0 +1,8 @@
+autoscaling
+credentials_file
+named_ports
+project_id
+service_account_email
+size
+state
+template

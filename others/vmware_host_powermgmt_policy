@@ -1,0 +1,8 @@
+cluster_name
+esxi_hostname
+hostname
+password
+policy
+port
+username
+validate_certs

@@ -1,0 +1,14 @@
+api_key
+auth_endpoint
+credentials
+critical_state
+env
+identity_type
+ok_state
+region
+state
+tenant_id
+tenant_name
+username
+validate_certs
+warning_state

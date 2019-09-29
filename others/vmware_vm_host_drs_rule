@@ -1,0 +1,9 @@
+affinity_rule
+datacenter
+enabled
+hostname
+mandatory
+password
+port
+username
+validate_certs

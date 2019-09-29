@@ -1,0 +1,16 @@
+api_http_method
+api_key
+api_region
+api_secret
+api_timeout
+api_url
+hyperv_networklabel
+isolation_method
+kvm_networklabel
+ovm3_networklabel
+poll_async
+state
+vlan
+vmware_networklabel
+xen_networklabel
+zone

@@ -1,0 +1,6 @@
+num_ports
+portgroup_name
+portgroup_type
+state
+switch_name
+vlan_id

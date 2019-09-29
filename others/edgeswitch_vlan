@@ -1,0 +1,11 @@
+aggregate
+auto_exclude
+auto_tag
+auto_untag
+excluded_interfaces
+name
+purge
+state
+tagged_interfaces
+untagged_interfaces
+vlan_id

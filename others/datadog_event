@@ -1,0 +1,7 @@
+aggregation_key
+alert_type
+date_happened
+host
+priority
+tags
+validate_certs

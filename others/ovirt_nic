@@ -1,0 +1,13 @@
+fetch_nested
+id
+interface
+mac_address
+nested_attributes
+network
+poll_interval
+profile
+state
+template
+timeout
+vm
+wait

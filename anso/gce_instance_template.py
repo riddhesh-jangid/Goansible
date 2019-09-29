@@ -1,0 +1,49 @@
+import random
+import string
+import os
+from register import registerObj
+import writer
+
+class gce_instance_template:
+    playbook_name = ''
+    hosts=[]
+    register=[]
+    automatic_restart = ''
+    can_ip_forward = ''
+    credentials_file = ''
+    description = ''
+    disk_auto_delete = ''
+    disk_type = ''
+    disks = ''
+    disks_gce_struct = ''
+    external_ip = ''
+    image = ''
+    image_family = ''
+    metadata = ''
+    name = ''
+    network = ''
+    nic_gce_struct = ''
+    pem_file = ''
+    preemptible = ''
+    project_id = ''
+    service_account_email = ''
+    service_account_permissions = ''
+    size = ''
+    source = ''
+    state = ''
+    subnetwork = ''
+    subnetwork_region = ''
+    tags = ''
+    def compile(self):
+       self.playbook_name=writer.writer(self,self.playbook_name)
+
+    def run(self):
+       dump_name=''.join([random.choice(string.ascii_letters + string.digits) for n in range(32)])
+       os.system('{} | tee {}'.format(self.playbook_name,dump_name))
+       self.register = registerObj(dump_name)
+       os.remove(dump_name)
+
+    def go(self):
+       self.compile()
+       self.run()
+

@@ -1,0 +1,11 @@
+device
+device_password
+device_port
+device_username
+managed
+offering
+provider
+server_port
+state
+unit_of_measure
+validate_certs

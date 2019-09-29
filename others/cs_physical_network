@@ -1,0 +1,17 @@
+api_http_method
+api_key
+api_region
+api_secret
+api_timeout
+api_url
+broadcast_domain_range
+domain
+isolation_method
+network_speed
+nsps_disabled
+nsps_enabled
+poll_async
+state
+tags
+vlan
+zone

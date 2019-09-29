@@ -1,0 +1,12 @@
+binstub_directory
+chdir
+clean
+deployment_mode
+exclude_groups
+executable
+extra_args
+gem_path
+gemfile
+local
+state
+user_install

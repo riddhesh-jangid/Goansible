@@ -1,0 +1,10 @@
+client_cert
+client_key
+force
+force_basic_auth
+http_agent
+url
+url_password
+url_username
+use_proxy
+validate_certs

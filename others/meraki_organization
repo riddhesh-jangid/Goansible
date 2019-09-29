@@ -1,0 +1,11 @@
+auth_key
+clone
+host
+org_id
+org_name
+output_level
+state
+timeout
+use_https
+use_proxy
+validate_certs

@@ -1,0 +1,10 @@
+cluster_name
+esxi_hostname
+force
+hostname
+password
+port
+state
+timeout
+username
+validate_certs

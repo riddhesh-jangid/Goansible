@@ -1,0 +1,10 @@
+cluster_name
+hostname
+hosts
+network_policy
+password
+port
+state
+teaming_policy
+username
+validate_certs

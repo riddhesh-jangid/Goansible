@@ -1,0 +1,12 @@
+cluster_mirroring
+config_sync_ip
+failover_multicast
+mirror_primary_address
+mirror_secondary_address
+multicast_address
+multicast_interface
+multicast_port
+provider
+server_port
+unicast_failover
+validate_certs

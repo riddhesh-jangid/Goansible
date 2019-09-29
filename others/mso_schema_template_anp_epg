@@ -1,0 +1,15 @@
+bd
+display_name
+epg
+intersite_multicaste_source
+intra_epg_isolation
+output_level
+port
+state
+subnets
+timeout
+use_proxy
+use_ssl
+useg_epg
+username
+validate_certs

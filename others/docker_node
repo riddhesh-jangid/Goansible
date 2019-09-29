@@ -1,0 +1,16 @@
+api_version
+availability
+ca_cert
+client_cert
+client_key
+debug
+docker_host
+labels
+labels_state
+labels_to_remove
+role
+ssl_version
+timeout
+tls
+tls_hostname
+validate_certs

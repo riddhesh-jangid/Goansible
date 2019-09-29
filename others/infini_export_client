@@ -1,0 +1,5 @@
+access_mode
+no_root_squash
+password
+state
+user

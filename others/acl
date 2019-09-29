@@ -1,0 +1,10 @@
+default
+entity
+entry
+etype
+follow
+permissions
+recalculate_mask
+recursive
+state
+use_nfsv4_acls

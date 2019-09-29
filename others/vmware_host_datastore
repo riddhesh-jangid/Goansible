@@ -1,0 +1,12 @@
+datacenter_name
+hostname
+nfs_path
+nfs_ro
+nfs_server
+password
+port
+state
+username
+validate_certs
+vmfs_device_name
+vmfs_version

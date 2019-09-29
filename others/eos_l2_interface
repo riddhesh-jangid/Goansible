@@ -1,0 +1,9 @@
+access_vlan
+aggregate
+auth_pass
+authorize
+mode
+native_vlan
+provider
+state
+trunk_allowed_vlans

@@ -1,0 +1,15 @@
+certificate_name
+description
+from_card
+interface_type
+leaf_port_blk_description
+output_level
+policy_group
+port
+state
+timeout
+to_card
+use_proxy
+use_ssl
+username
+validate_certs

@@ -1,0 +1,15 @@
+backups
+datacenter
+endpoint
+force_upgrade
+id
+image
+labels
+location
+name
+server_type
+ssh_keys
+state
+upgrade_disk
+user_data
+volumes

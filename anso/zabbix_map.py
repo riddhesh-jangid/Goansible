@@ -1,0 +1,40 @@
+import random
+import string
+import os
+from register import registerObj
+import writer
+
+class zabbix_map:
+    playbook_name = ''
+    hosts=[]
+    register=[]
+    http_login_user = ''
+    login_password = ''
+    login_user = ''
+    name = ''
+    server_url = ''
+    data = ''
+    default_image = ''
+    expand_problem = ''
+    height = ''
+    highlight = ''
+    http_login_password = ''
+    label_type = ''
+    margin = ''
+    state = ''
+    timeout = ''
+    validate_certs = ''
+    width = ''
+    def compile(self):
+       self.playbook_name=writer.writer(self,self.playbook_name)
+
+    def run(self):
+       dump_name=''.join([random.choice(string.ascii_letters + string.digits) for n in range(32)])
+       os.system('{} | tee {}'.format(self.playbook_name,dump_name))
+       self.register = registerObj(dump_name)
+       os.remove(dump_name)
+
+    def go(self):
+       self.compile()
+       self.run()
+

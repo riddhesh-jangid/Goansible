@@ -1,0 +1,15 @@
+alternative_location_id
+authorized_network
+display_name
+labels
+location_id
+project
+redis_configs
+redis_version
+reserved_ip_range
+scopes
+service_account_contents
+service_account_email
+service_account_file
+state
+tier

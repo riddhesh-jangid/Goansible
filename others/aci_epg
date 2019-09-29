@@ -1,0 +1,16 @@
+bd
+certificate_name
+description
+fwd_control
+intra_epg_isolation
+output_level
+port
+preferred_group
+priority
+state
+tenant
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

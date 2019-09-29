@@ -1,0 +1,8 @@
+esxi_hostname
+hostname
+labels
+password
+port
+state
+username
+validate_certs

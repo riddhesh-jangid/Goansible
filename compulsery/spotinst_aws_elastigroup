@@ -1,0 +1,14 @@
+availability_vs_cost
+availability_zones
+image_id
+key_pair
+max_size
+min_size
+monitoring
+name
+on_demand_instance_type
+product
+security_group_ids
+spot_instance_types
+target
+unit

@@ -1,0 +1,14 @@
+cluster
+datacenter
+folder
+hostname
+password
+port
+timeout
+username
+validate_certs
+vm_id_type
+vm_shell_args
+vm_shell_cwd
+vm_shell_env
+wait_for_process

@@ -1,0 +1,10 @@
+attributes
+folder
+hostname
+password
+port
+state
+use_instance_uuid
+username
+uuid
+validate_certs

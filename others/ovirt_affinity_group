@@ -1,0 +1,14 @@
+cluster
+description
+fetch_nested
+host_enforcing
+host_rule
+hosts
+nested_attributes
+poll_interval
+state
+timeout
+vm_enforcing
+vm_rule
+vms
+wait

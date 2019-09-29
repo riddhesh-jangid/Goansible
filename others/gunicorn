@@ -1,0 +1,6 @@
+chdir
+config
+pid
+user
+venv
+worker

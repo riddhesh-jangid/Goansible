@@ -1,0 +1,17 @@
+autoFailover
+failover
+httpFile
+httpFqdn
+httpQueryString
+ip1
+ip2
+ip3
+ip4
+ip5
+monitor
+record_name
+record_ttl
+record_type
+record_value
+sandbox
+validate_certs

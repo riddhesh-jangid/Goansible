@@ -1,0 +1,14 @@
+allow_only_sdrts_servers
+auth_method
+computer_groups
+idle_timeout
+order
+redirect_clipboard
+redirect_drives
+redirect_pnp
+redirect_printers
+redirect_serial
+session_timeout
+session_timeout_action
+state
+user_groups

@@ -1,0 +1,12 @@
+applications
+dest_hostname
+dest_password
+dest_username
+http_port
+https
+ontapi
+peer_cluster
+peer_vserver
+state
+validate_certs
+vserver

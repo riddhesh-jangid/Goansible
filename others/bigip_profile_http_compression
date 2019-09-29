@@ -1,0 +1,11 @@
+buffer_size
+description
+gzip_level
+gzip_memory_level
+gzip_window_size
+parent
+partition
+provider
+server_port
+state
+validate_certs

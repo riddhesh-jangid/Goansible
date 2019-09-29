@@ -1,0 +1,11 @@
+dhcp
+gateway_ip_address
+http_port
+https
+ip_address
+netmask
+ontapi
+prefix_length
+state
+validate_certs
+wait_for_completion

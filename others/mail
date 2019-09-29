@@ -1,0 +1,15 @@
+attach
+bcc
+body
+cc
+charset
+from
+headers
+host
+password
+port
+secure
+subtype
+timeout
+to
+username

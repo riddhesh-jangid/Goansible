@@ -1,0 +1,52 @@
+import random
+import string
+import os
+from register import registerObj
+import writer
+
+class azure_rm_webappslot:
+    playbook_name = ''
+    hosts=[]
+    register=[]
+    name = ''
+    resource_group = ''
+    webapp_name = ''
+    ad_user = ''
+    adfs_authority_url = ''
+    api_profile = ''
+    app_settings = ''
+    app_state = ''
+    append_tags = ''
+    auth_source = ''
+    auto_swap_slot_name = ''
+    cert_validation_mode = ''
+    client_id = ''
+    cloud_environment = ''
+    configuration_source = ''
+    container_settings = ''
+    deployment_source = ''
+    frameworks = ''
+    location = ''
+    password = ''
+    profile = ''
+    purge_app_settings = ''
+    secret = ''
+    startup_file = ''
+    state = ''
+    subscription_id = ''
+    swap = ''
+    tags = ''
+    tenant = ''
+    def compile(self):
+       self.playbook_name=writer.writer(self,self.playbook_name)
+
+    def run(self):
+       dump_name=''.join([random.choice(string.ascii_letters + string.digits) for n in range(32)])
+       os.system('{} | tee {}'.format(self.playbook_name,dump_name))
+       self.register = registerObj(dump_name)
+       os.remove(dump_name)
+
+    def go(self):
+       self.compile()
+       self.run()
+

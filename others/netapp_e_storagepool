@@ -1,0 +1,13 @@
+criteria_drive_count
+criteria_drive_interface_type
+criteria_drive_min_size
+criteria_drive_require_fde
+criteria_drive_type
+criteria_min_usable_capacity
+criteria_size_unit
+erase_secured_drives
+remove_volumes
+reserve_drive_count
+secure_pool
+ssid
+validate_certs

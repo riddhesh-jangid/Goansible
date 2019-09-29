@@ -1,0 +1,9 @@
+disable_gpg_check
+disable_recommends
+extra_args
+extra_args_precommand
+force
+oldpackage
+state
+type
+update_cache

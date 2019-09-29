@@ -1,0 +1,16 @@
+aws_access_key
+aws_secret_key
+blueprint_id
+bundle_id
+debug_botocore_endpoint_logs
+ec2_url
+key_pair_name
+profile
+region
+security_token
+state
+user_data
+validate_certs
+wait
+wait_timeout
+zone

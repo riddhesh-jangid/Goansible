@@ -1,0 +1,13 @@
+description
+next_hop_gateway
+next_hop_instance
+next_hop_ip
+next_hop_vpn_tunnel
+priority
+project
+scopes
+service_account_contents
+service_account_email
+service_account_file
+state
+tags

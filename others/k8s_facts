@@ -1,0 +1,15 @@
+api_key
+api_version
+ca_cert
+client_cert
+client_key
+context
+field_selectors
+host
+kubeconfig
+label_selectors
+name
+namespace
+password
+username
+validate_certs

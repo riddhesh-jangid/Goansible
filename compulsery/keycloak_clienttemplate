@@ -1,0 +1,5 @@
+auth_client_id
+auth_keycloak_url
+auth_password
+auth_realm
+auth_username

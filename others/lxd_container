@@ -1,0 +1,14 @@
+architecture
+client_cert
+client_key
+config
+devices
+ephemeral
+force_stop
+snap_url
+source
+state
+timeout
+trust_password
+url
+wait_for_ipv4_addresses

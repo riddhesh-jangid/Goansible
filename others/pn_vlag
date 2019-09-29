@@ -1,0 +1,12 @@
+pn_clipassword
+pn_cliswitch
+pn_cliusername
+pn_failover_action
+pn_lacp_fallback
+pn_lacp_fallback_timeout
+pn_lacp_mode
+pn_lacp_timeout
+pn_mode
+pn_peer_port
+pn_peer_switch
+pn_port

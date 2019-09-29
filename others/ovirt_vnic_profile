@@ -1,0 +1,13 @@
+custom_properties
+description
+fetch_nested
+migratable
+nested_attributes
+network_filter
+pass_through
+poll_interval
+port_mirroring
+qos
+state
+timeout
+wait

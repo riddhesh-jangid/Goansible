@@ -1,0 +1,9 @@
+cpm_password
+cpm_username
+plug_bootdelay
+plug_bootpriority
+plug_default
+plug_name
+use_https
+use_proxy
+validate_certs

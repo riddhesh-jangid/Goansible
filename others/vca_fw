@@ -1,0 +1,11 @@
+api_version
+gateway_name
+host
+instance_id
+org
+password
+service_type
+state
+username
+validate_certs
+vdc_name

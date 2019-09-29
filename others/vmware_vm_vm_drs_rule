@@ -1,0 +1,10 @@
+affinity_rule
+enabled
+hostname
+mandatory
+password
+port
+state
+username
+validate_certs
+vms

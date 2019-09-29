@@ -1,0 +1,16 @@
+chdir
+elevated
+executable
+extra_opts
+hostnames
+interactive
+limited
+nobanner
+noprofile
+password
+priority
+session
+system
+timeout
+username
+wait

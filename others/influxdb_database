@@ -1,0 +1,12 @@
+hostname
+password
+port
+proxies
+retries
+ssl
+state
+timeout
+udp_port
+use_udp
+username
+validate_certs

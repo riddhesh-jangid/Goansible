@@ -1,0 +1,17 @@
+aggregate
+dest
+dest_level
+event
+facility
+facility_level
+facility_link_status
+file_size
+interface
+interface_message
+name
+provider
+purge
+remote_server
+state
+timestamp
+use_vrf

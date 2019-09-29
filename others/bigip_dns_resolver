@@ -1,0 +1,13 @@
+answer_default_zones
+cache_size
+partition
+provider
+randomize_query_case
+route_domain
+server_port
+state
+use_ipv4
+use_ipv6
+use_tcp
+use_udp
+validate_certs

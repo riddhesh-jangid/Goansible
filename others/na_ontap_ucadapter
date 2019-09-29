@@ -1,0 +1,7 @@
+http_port
+https
+mode
+ontapi
+state
+type
+validate_certs

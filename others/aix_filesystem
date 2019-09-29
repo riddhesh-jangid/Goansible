@@ -1,0 +1,11 @@
+account_subsystem
+attributes
+auto_mount
+device
+fs_type
+mount_group
+nfs_server
+permissions
+rm_mount_point
+size
+vg

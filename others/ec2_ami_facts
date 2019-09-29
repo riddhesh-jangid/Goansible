@@ -1,0 +1,13 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+describe_image_attributes
+ec2_url
+executable_users
+filters
+image_ids
+owners
+profile
+region
+security_token
+validate_certs

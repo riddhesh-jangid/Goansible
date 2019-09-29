@@ -1,0 +1,17 @@
+api_key
+ca_cert
+client_cert
+client_key
+context
+force
+host
+kubeconfig
+merge_type
+password
+ports
+resource_definition
+selector
+state
+type
+username
+validate_certs

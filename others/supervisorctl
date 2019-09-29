@@ -1,0 +1,6 @@
+config
+password
+server_url
+signal
+supervisorctl_path
+username

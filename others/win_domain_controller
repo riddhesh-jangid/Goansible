@@ -1,0 +1,8 @@
+database_path
+dns_domain_name
+local_admin_password
+read_only
+safe_mode_password
+site_name
+state
+sysvol_path

@@ -1,0 +1,9 @@
+comment
+extattrs
+grid_primary
+grid_secondaries
+ns_group
+provider
+restart_if_needed
+state
+zone_format

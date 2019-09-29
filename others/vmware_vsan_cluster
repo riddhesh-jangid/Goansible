@@ -1,0 +1,6 @@
+cluster_uuid
+hostname
+password
+port
+username
+validate_certs

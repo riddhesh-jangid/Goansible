@@ -1,0 +1,9 @@
+aggregate
+configured_password
+name
+provider
+purge
+role
+sshkey
+state
+update_password

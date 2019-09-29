@@ -1,0 +1,10 @@
+owner
+pid
+post_wait_delay
+pre_wait_delay
+process_min_count
+process_name_exact
+process_name_pattern
+sleep
+state
+timeout

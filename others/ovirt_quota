@@ -1,0 +1,14 @@
+cluster_grace
+cluster_threshold
+clusters
+description
+fetch_nested
+id
+nested_attributes
+poll_interval
+state
+storage_grace
+storage_threshold
+storages
+timeout
+wait

@@ -1,0 +1,12 @@
+apps
+cache_table
+clear
+database
+failfast
+fixtures
+link
+merge
+pythonpath
+settings
+skip
+virtualenv

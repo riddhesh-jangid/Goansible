@@ -1,0 +1,8 @@
+ipa_host
+ipa_port
+ipa_prot
+ipa_timeout
+ipa_user
+ipadefaultemaildomain
+ipadefaultloginshell
+validate_certs

@@ -1,0 +1,57 @@
+import random
+import string
+import os
+from register import registerObj
+import writer
+
+class cs_service_offering:
+    playbook_name = ''
+    hosts=[]
+    register=[]
+    name = ''
+    api_http_method = ''
+    api_key = ''
+    api_region = ''
+    api_secret = ''
+    api_timeout = ''
+    api_url = ''
+    cpu_number = ''
+    cpu_speed = ''
+    deployment_planner = ''
+    disk_bytes_read_rate = ''
+    disk_bytes_write_rate = ''
+    disk_iops_max = ''
+    disk_iops_min = ''
+    disk_iops_read_rate = ''
+    disk_iops_write_rate = ''
+    display_text = ''
+    domain = ''
+    host_tags = ''
+    hypervisor_snapshot_reserve = ''
+    is_customized = ''
+    is_iops_customized = ''
+    is_system = ''
+    is_volatile = ''
+    limit_cpu_usage = ''
+    memory = ''
+    network_rate = ''
+    offer_ha = ''
+    provisioning_type = ''
+    service_offering_details = ''
+    state = ''
+    storage_tags = ''
+    storage_type = ''
+    system_vm_type = ''
+    def compile(self):
+       self.playbook_name=writer.writer(self,self.playbook_name)
+
+    def run(self):
+       dump_name=''.join([random.choice(string.ascii_letters + string.digits) for n in range(32)])
+       os.system('{} | tee {}'.format(self.playbook_name,dump_name))
+       self.register = registerObj(dump_name)
+       os.remove(dump_name)
+
+    def go(self):
+       self.compile()
+       self.run()
+

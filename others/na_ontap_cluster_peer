@@ -1,0 +1,12 @@
+dest_cluster_name
+dest_intercluster_lifs
+dest_password
+dest_username
+http_port
+https
+ontapi
+passphrase
+source_cluster_name
+source_intercluster_lifs
+state
+validate_certs

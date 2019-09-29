@@ -1,0 +1,7 @@
+http_port
+https
+message
+ontapi
+show_cluster_motd
+state
+validate_certs

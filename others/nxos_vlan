@@ -1,0 +1,14 @@
+admin_state
+aggregate
+associated_interfaces
+delay
+interfaces
+mapped_vni
+mode
+name
+provider
+purge
+state
+vlan_id
+vlan_range
+vlan_state

@@ -1,0 +1,11 @@
+auto_sync
+description
+full_sync
+max_incremental_sync_size
+network_failover
+provider
+save_on_auto_sync
+server_port
+state
+type
+validate_certs

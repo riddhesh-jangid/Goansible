@@ -1,0 +1,47 @@
+import random
+import string
+import os
+from register import registerObj
+import writer
+
+class k8s:
+    playbook_name = ''
+    hosts=[]
+    register=[]
+    api_key = ''
+    api_version = ''
+    append_hash = ''
+    ca_cert = ''
+    client_cert = ''
+    client_key = ''
+    context = ''
+    force = ''
+    host = ''
+    kind = ''
+    kubeconfig = ''
+    merge_type = ''
+    name = ''
+    namespace = ''
+    password = ''
+    resource_definition = ''
+    src = ''
+    state = ''
+    username = ''
+    validate = ''
+    validate_certs = ''
+    wait = ''
+    wait_condition = ''
+    wait_timeout = ''
+    def compile(self):
+       self.playbook_name=writer.writer(self,self.playbook_name)
+
+    def run(self):
+       dump_name=''.join([random.choice(string.ascii_letters + string.digits) for n in range(32)])
+       os.system('{} | tee {}'.format(self.playbook_name,dump_name))
+       self.register = registerObj(dump_name)
+       os.remove(dump_name)
+
+    def go(self):
+       self.compile()
+       self.run()
+

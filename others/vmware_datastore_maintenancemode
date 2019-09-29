@@ -1,0 +1,9 @@
+cluster_name
+datastore
+datastore_cluster
+hostname
+password
+port
+state
+username
+validate_certs

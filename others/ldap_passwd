@@ -1,0 +1,5 @@
+bind_dn
+bind_pw
+server_uri
+start_tls
+validate_certs

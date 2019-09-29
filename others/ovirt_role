@@ -1,0 +1,11 @@
+administrative
+description
+fetch_nested
+id
+name
+nested_attributes
+permits
+poll_interval
+state
+timeout
+wait

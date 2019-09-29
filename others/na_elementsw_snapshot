@@ -1,0 +1,7 @@
+enable_remote_replication
+expiration_time
+name
+retention
+snap_mirror_label
+src_snapshot_id
+state

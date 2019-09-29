@@ -1,0 +1,13 @@
+build_flags
+env_shebang
+executable
+force
+gem_source
+include_dependencies
+include_doc
+install_dir
+pre_release
+repository
+state
+user_install
+version

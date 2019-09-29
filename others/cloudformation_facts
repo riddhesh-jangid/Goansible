@@ -1,0 +1,14 @@
+all_facts
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+ec2_url
+profile
+region
+security_token
+stack_events
+stack_name
+stack_policy
+stack_resources
+stack_template
+validate_certs

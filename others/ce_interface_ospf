@@ -1,0 +1,9 @@
+auth_key_id
+auth_mode
+auth_text_md5
+auth_text_simple
+cost
+dead_interval
+hello_interval
+silent_interface
+state

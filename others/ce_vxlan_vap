@@ -1,0 +1,7 @@
+bind_vlan_id
+bridge_domain_id
+ce_vid
+encapsulation
+l2_sub_interface
+pe_vid
+state

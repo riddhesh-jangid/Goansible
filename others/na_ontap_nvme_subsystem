@@ -1,0 +1,10 @@
+hosts
+http_port
+https
+ontapi
+ostype
+paths
+skip_host_check
+skip_mapped_check
+state
+validate_certs

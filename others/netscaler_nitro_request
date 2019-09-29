@@ -1,0 +1,14 @@
+action
+args
+attributes
+filter
+instance_id
+instance_ip
+instance_name
+name
+nitro_auth_token
+nitro_protocol
+nsip
+operation
+resource
+validate_certs

@@ -1,0 +1,7 @@
+exact_match
+host_inventory
+host_ip
+http_login_password
+remove_duplicate
+timeout
+validate_certs

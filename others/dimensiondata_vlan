@@ -1,0 +1,13 @@
+allow_expand
+description
+mcp_password
+mcp_user
+name
+private_ipv4_base_address
+private_ipv4_prefix_size
+region
+state
+validate_certs
+wait
+wait_poll_interval
+wait_time

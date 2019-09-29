@@ -1,0 +1,14 @@
+certificate_name
+output_level
+polling_interval
+port
+state
+timeout
+url
+url_password
+url_protocol
+url_username
+use_proxy
+use_ssl
+username
+validate_certs

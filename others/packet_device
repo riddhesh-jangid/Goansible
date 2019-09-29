@@ -1,0 +1,16 @@
+always_pxe
+auth_token
+count
+count_offset
+device_ids
+facility
+features
+hostnames
+ipxe_script_url
+locked
+operating_system
+plan
+state
+user_data
+wait_for_public_IPv
+wait_timeout

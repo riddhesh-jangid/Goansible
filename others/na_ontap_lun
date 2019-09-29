@@ -1,0 +1,13 @@
+force_remove
+force_remove_fenced
+force_resize
+http_port
+https
+ontapi
+ostype
+size
+size_unit
+space_allocation
+space_reserve
+state
+validate_certs

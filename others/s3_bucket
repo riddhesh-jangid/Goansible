@@ -1,0 +1,16 @@
+aws_access_key
+aws_secret_key
+ceph
+debug_botocore_endpoint_logs
+ec2_url
+force
+policy
+profile
+region
+requester_pays
+s3_url
+security_token
+state
+tags
+validate_certs
+versioning

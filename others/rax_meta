@@ -1,0 +1,14 @@
+address
+api_key
+auth_endpoint
+credentials
+env
+id
+identity_type
+meta
+name
+region
+tenant_id
+tenant_name
+username
+validate_certs

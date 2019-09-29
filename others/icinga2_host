@@ -1,0 +1,13 @@
+check_command
+client_cert
+client_key
+display_name
+force_basic_auth
+state
+template
+url_password
+url_username
+use_proxy
+validate_certs
+variables
+zone

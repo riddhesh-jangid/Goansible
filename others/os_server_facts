@@ -1,0 +1,17 @@
+all_projects
+api_timeout
+auth
+auth_type
+availability_zone
+ca_cert
+client_cert
+client_key
+cloud
+detailed
+filters
+interface
+region_name
+server
+timeout
+validate_certs
+wait

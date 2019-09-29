@@ -1,0 +1,9 @@
+api_account
+api_endpoint
+api_key
+api_retries
+api_timeout
+cidr
+region
+state
+validate_certs

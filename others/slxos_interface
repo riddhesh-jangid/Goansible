@@ -1,0 +1,10 @@
+aggregate
+delay
+description
+enabled
+mtu
+neighbors
+rx_rate
+speed
+state
+tx_rate

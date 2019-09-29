@@ -1,0 +1,14 @@
+asn
+certificate_name
+description
+dscp
+l3protocol
+output_level
+port
+route_control
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

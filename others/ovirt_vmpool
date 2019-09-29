@@ -1,0 +1,15 @@
+cluster
+comment
+description
+fetch_nested
+id
+nested_attributes
+poll_interval
+prestarted
+state
+template
+timeout
+type
+vm_count
+vm_per_user
+wait

@@ -1,0 +1,14 @@
+app_parameters
+application
+arguments
+dependencies
+description
+display_name
+executable
+password
+start_mode
+state
+stderr_file
+stdout_file
+user
+working_directory

@@ -1,0 +1,8 @@
+backup
+block_end_string
+block_start_string
+force
+newline_sequence
+trim_blocks
+variable_end_string
+variable_start_string

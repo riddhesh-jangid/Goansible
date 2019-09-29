@@ -1,0 +1,8 @@
+hostname
+password
+port
+show_network_policy
+show_port_policy
+show_teaming_policy
+username
+validate_certs

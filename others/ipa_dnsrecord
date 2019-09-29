@@ -1,0 +1,9 @@
+ipa_host
+ipa_port
+ipa_prot
+ipa_timeout
+ipa_user
+record_ttl
+record_type
+state
+validate_certs

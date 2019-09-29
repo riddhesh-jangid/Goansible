@@ -1,0 +1,16 @@
+contact
+description
+discovery_operation
+discovery_proto
+health_check
+hostname
+mtu
+multicast_filtering_mode
+password
+port
+state
+switch_version
+uplink_prefix
+uplink_quantity
+username
+validate_certs

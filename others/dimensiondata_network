@@ -1,0 +1,10 @@
+description
+mcp_password
+mcp_user
+region
+service_plan
+state
+validate_certs
+wait
+wait_poll_interval
+wait_time

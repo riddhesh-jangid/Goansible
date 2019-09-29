@@ -1,0 +1,14 @@
+api_key
+auth_endpoint
+credentials
+criteria
+disabled
+env
+identity_type
+metadata
+region
+state
+tenant_id
+tenant_name
+username
+validate_certs

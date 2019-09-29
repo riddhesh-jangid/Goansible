@@ -1,0 +1,8 @@
+acct_port
+auth_port
+encrypt_type
+host_timeout
+key
+provider
+state
+tacacs_port

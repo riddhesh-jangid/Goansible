@@ -1,0 +1,4 @@
+healthcheck_name
+healthcheck_type
+host_header
+state

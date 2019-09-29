@@ -1,0 +1,10 @@
+delegate_to
+description
+org_name
+parent_org_path
+port
+proxy
+state
+use_proxy
+use_ssl
+username

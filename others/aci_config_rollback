@@ -1,0 +1,16 @@
+certificate_name
+compare_export_policy
+compare_snapshot
+description
+fail_on_decrypt
+import_mode
+import_policy
+import_type
+output_level
+port
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

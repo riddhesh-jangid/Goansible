@@ -1,0 +1,11 @@
+ad_domain
+ad_password
+ad_state
+ad_user
+cluster_name
+esxi_hostname
+hostname
+password
+port
+username
+validate_certs

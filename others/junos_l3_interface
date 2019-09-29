@@ -1,0 +1,12 @@
+active
+aggregate
+filter6_input
+filter6_output
+filter_input
+filter_output
+ipv4
+ipv6
+name
+provider
+state
+unit

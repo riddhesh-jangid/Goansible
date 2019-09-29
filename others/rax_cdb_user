@@ -1,0 +1,16 @@
+api_key
+auth_endpoint
+cdb_id
+credentials
+databases
+db_password
+db_username
+env
+host
+identity_type
+region
+state
+tenant_id
+tenant_name
+username
+validate_certs

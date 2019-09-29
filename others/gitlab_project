@@ -1,0 +1,17 @@
+api_password
+api_token
+api_url
+api_username
+description
+group
+import_url
+issues_enabled
+login_password
+login_user
+merge_requests_enabled
+path
+snippets_enabled
+state
+validate_certs
+visibility
+wiki_enabled

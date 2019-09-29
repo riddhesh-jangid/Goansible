@@ -1,0 +1,8 @@
+alicloud_access_key
+alicloud_region
+alicloud_secret_key
+alicloud_security_token
+availability_zone
+instance_ids
+instance_names
+instance_tags

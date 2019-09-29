@@ -1,0 +1,17 @@
+backups
+id
+image
+ipv6
+monitoring
+name
+private_networking
+region
+size
+ssh_keys
+state
+tags
+unique_name
+user_data
+volumes
+wait
+wait_timeout

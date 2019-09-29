@@ -1,0 +1,16 @@
+clusters
+comment
+data_center
+description
+external_provider
+fetch_nested
+id
+label
+mtu
+nested_attributes
+poll_interval
+state
+timeout
+vlan_tag
+vm_network
+wait

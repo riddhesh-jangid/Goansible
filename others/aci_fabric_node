@@ -1,0 +1,15 @@
+certificate_name
+description
+node_id
+output_level
+pod_id
+port
+role
+serial
+state
+switch
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

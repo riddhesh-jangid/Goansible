@@ -1,0 +1,14 @@
+api_key
+ca_cert
+client_cert
+client_key
+context
+host
+kubeconfig
+merge_type
+password
+path
+upload_host
+upload_host_validate_certs
+username
+validate_certs

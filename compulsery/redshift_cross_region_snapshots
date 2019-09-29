@@ -1,0 +1,5 @@
+cluster_name
+destination_region
+region
+snapshot_retention_period
+state

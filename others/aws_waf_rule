@@ -1,0 +1,12 @@
+aws_access_key
+aws_secret_key
+conditions
+debug_botocore_endpoint_logs
+ec2_url
+metric_name
+profile
+purge_conditions
+region
+security_token
+state
+validate_certs

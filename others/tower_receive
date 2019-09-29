@@ -1,0 +1,17 @@
+all
+credential
+credential_type
+inventory
+inventory_script
+job_template
+notification_template
+organization
+project
+team
+tower_config_file
+tower_host
+tower_password
+tower_username
+user
+validate_certs
+workflow

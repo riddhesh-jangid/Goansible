@@ -1,0 +1,4 @@
+certificate_hash
+enable_only_messaging_capable_clients
+max_connections
+ssl_bridging

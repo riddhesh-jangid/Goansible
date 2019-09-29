@@ -1,0 +1,13 @@
+api_context
+api_version
+avi_credentials
+controller
+description
+password
+state
+tenant
+tenant_ref
+tenant_uuid
+url
+username
+uuid

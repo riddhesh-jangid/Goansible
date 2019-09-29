@@ -1,0 +1,9 @@
+auth_token
+health_check_interval
+health_check_test
+load_balancer
+method
+name
+persistence
+persistence_time
+rules

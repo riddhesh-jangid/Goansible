@@ -1,0 +1,8 @@
+collect_data
+host_groups
+host_names
+http_login_password
+minutes
+state
+timeout
+validate_certs

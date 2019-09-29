@@ -1,0 +1,15 @@
+allowed_slots
+cores_per_slot
+delete_virtual_disk
+initial_image
+mgmt_address
+mgmt_network
+mgmt_route
+min_number_of_slots
+number_of_slots
+partition
+provider
+server_port
+state
+validate_certs
+vlans

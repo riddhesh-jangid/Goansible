@@ -1,0 +1,10 @@
+host
+interfaces
+name
+port
+properties
+state
+sync
+use_ssl
+username
+validate_certs

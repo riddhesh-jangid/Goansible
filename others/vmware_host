@@ -1,0 +1,15 @@
+add_connected
+cluster_name
+esxi_password
+esxi_ssl_thumbprint
+esxi_username
+fetch_ssl_thumbprint
+folder
+force_connection
+hostname
+password
+port
+reconnect_disconnected
+state
+username
+validate_certs

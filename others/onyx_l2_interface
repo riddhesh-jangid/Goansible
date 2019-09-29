@@ -1,0 +1,6 @@
+access_vlan
+aggregate
+mode
+name
+state
+trunk_allowed_vlans

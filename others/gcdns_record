@@ -1,0 +1,10 @@
+credentials_file
+overwrite
+pem_file
+project_id
+record_data
+service_account_email
+state
+ttl
+zone
+zone_id

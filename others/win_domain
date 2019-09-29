@@ -1,0 +1,6 @@
+create_dns_delegation
+database_path
+domain_mode
+domain_netbios_name
+forest_mode
+sysvol_path

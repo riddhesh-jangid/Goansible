@@ -1,0 +1,17 @@
+address
+channel
+config_method
+dns_address
+dns_address_backup
+dns_config_method
+gateway
+log_path
+name
+ntp_address
+ntp_address_backup
+ntp_config_method
+ssh
+ssid
+state
+subnet_mask
+validate_certs

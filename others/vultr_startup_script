@@ -1,0 +1,9 @@
+api_account
+api_endpoint
+api_key
+api_retries
+api_timeout
+script
+script_type
+state
+validate_certs

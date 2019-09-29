@@ -1,0 +1,9 @@
+cluster
+fetch_nested
+hosts
+nested_attributes
+poll_interval
+state
+timeout
+vms
+wait

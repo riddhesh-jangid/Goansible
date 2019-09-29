@@ -1,0 +1,10 @@
+host
+mgmt_token
+name
+port
+rules
+scheme
+state
+token
+token_type
+validate_certs

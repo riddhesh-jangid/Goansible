@@ -1,0 +1,7 @@
+cluster_name
+datacenter
+hostname
+password
+port
+username
+validate_certs

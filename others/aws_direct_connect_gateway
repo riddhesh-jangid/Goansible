@@ -1,0 +1,12 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+direct_connect_gateway_id
+ec2_url
+name
+profile
+region
+security_token
+state
+validate_certs
+virtual_gateway_id

@@ -1,0 +1,13 @@
+aws_access_key
+aws_secret_key
+bounce_notifications
+complaint_notifications
+debug_botocore_endpoint_logs
+delivery_notifications
+ec2_url
+feedback_forwarding
+profile
+region
+security_token
+state
+validate_certs

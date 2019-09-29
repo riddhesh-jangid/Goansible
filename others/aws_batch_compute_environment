@@ -1,0 +1,15 @@
+aws_access_key
+aws_secret_key
+bid_percentage
+compute_environment_state
+debug_botocore_endpoint_logs
+desiredv_cpus
+ec2_key_pair
+ec2_url
+image_id
+profile
+region
+security_token
+spot_iam_fleet_role
+tags
+validate_certs

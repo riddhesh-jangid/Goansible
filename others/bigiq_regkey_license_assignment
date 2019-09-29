@@ -1,0 +1,9 @@
+device
+device_password
+device_port
+device_username
+managed
+provider
+server_port
+state
+validate_certs

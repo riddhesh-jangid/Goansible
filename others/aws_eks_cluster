@@ -1,0 +1,15 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+ec2_url
+profile
+region
+role_arn
+security_groups
+security_token
+state
+subnets
+validate_certs
+version
+wait
+wait_timeout

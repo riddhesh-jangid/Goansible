@@ -1,0 +1,16 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+default_visibility_timeout
+delivery_delay
+ec2_url
+maximum_message_size
+message_retention_period
+policy
+profile
+receive_message_wait_time
+redrive_policy
+region
+security_token
+state
+validate_certs

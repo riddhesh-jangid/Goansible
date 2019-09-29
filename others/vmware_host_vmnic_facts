@@ -1,0 +1,10 @@
+capabilities
+cluster_name
+directpath_io
+esxi_hostname
+hostname
+password
+port
+sriov
+username
+validate_certs

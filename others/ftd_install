@@ -1,0 +1,10 @@
+device_gateway
+device_ip
+device_model
+device_netmask
+device_new_password
+device_sudo_password
+device_username
+dns_server
+force_install
+search_domains

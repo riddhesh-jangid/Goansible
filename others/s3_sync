@@ -1,0 +1,16 @@
+aws_access_key
+aws_secret_key
+cache_control
+debug_botocore_endpoint_logs
+delete
+ec2_url
+exclude
+file_change_strategy
+include
+key_prefix
+mime_map
+permission
+profile
+region
+security_token
+validate_certs

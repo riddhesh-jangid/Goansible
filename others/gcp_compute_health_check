@@ -1,0 +1,16 @@
+check_interval_sec
+description
+healthy_threshold
+http_health_check
+https_health_check
+project
+scopes
+service_account_contents
+service_account_email
+service_account_file
+ssl_health_check
+state
+tcp_health_check
+timeout_sec
+type
+unhealthy_threshold

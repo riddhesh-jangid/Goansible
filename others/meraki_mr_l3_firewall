@@ -1,0 +1,16 @@
+allow_lan_access
+auth_key
+host
+net_id
+net_name
+number
+org_id
+org_name
+output_level
+rules
+ssid_name
+state
+timeout
+use_https
+use_proxy
+validate_certs

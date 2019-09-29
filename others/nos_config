@@ -1,0 +1,14 @@
+after
+backup
+backup_options
+before
+diff_against
+diff_ignore_lines
+intended_config
+lines
+match
+multiline_delimiter
+parents
+replace
+running_config
+src

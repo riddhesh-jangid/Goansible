@@ -1,0 +1,17 @@
+availability_requirements
+datacenter
+devices
+iquery_options
+limits
+link_discovery
+monitors
+partition
+prober_fallback
+prober_pool
+prober_preference
+provider
+server_port
+server_type
+state
+validate_certs
+virtual_server_discovery

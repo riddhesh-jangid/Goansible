@@ -1,0 +1,16 @@
+asn
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+ec2_url
+name
+profile
+region
+security_token
+state
+tags
+type
+validate_certs
+vpc_id
+vpn_gateway_id
+wait_timeout

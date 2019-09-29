@@ -1,0 +1,15 @@
+aws_access_key
+aws_secret_key
+cert
+cert_chain
+debug_botocore_endpoint_logs
+dup_ok
+ec2_url
+key
+new_name
+new_path
+path
+profile
+region
+security_token
+validate_certs

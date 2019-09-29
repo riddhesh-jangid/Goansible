@@ -1,0 +1,47 @@
+import random
+import string
+import os
+from register import registerObj
+import writer
+
+class s3_lifecycle:
+    playbook_name = ''
+    hosts=[]
+    register=[]
+    name = ''
+    aws_access_key = ''
+    aws_secret_key = ''
+    debug_botocore_endpoint_logs = ''
+    ec2_url = ''
+    expiration_date = ''
+    expiration_days = ''
+    noncurrent_version_expiration_days = ''
+    noncurrent_version_storage_class = ''
+    noncurrent_version_transition_days = ''
+    noncurrent_version_transitions = ''
+    prefix = ''
+    profile = ''
+    purge_transitions = ''
+    region = ''
+    rule_id = ''
+    security_token = ''
+    state = ''
+    status = ''
+    storage_class = ''
+    transition_date = ''
+    transition_days = ''
+    transitions = ''
+    validate_certs = ''
+    def compile(self):
+       self.playbook_name=writer.writer(self,self.playbook_name)
+
+    def run(self):
+       dump_name=''.join([random.choice(string.ascii_letters + string.digits) for n in range(32)])
+       os.system('{} | tee {}'.format(self.playbook_name,dump_name))
+       self.register = registerObj(dump_name)
+       os.remove(dump_name)
+
+    def go(self):
+       self.compile()
+       self.run()
+

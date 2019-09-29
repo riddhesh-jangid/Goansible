@@ -1,0 +1,13 @@
+bd
+description
+no_default_gateway
+output_level
+port
+scope
+shared
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

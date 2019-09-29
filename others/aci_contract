@@ -1,0 +1,13 @@
+certificate_name
+description
+dscp
+output_level
+port
+priority
+scope
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

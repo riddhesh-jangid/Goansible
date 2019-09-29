@@ -1,0 +1,14 @@
+checksum
+checksum_algorithm
+checksum_url
+force
+force_basic_auth
+headers
+proxy_password
+proxy_url
+proxy_username
+timeout
+url_password
+url_username
+use_proxy
+validate_certs

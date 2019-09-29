@@ -1,0 +1,14 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+delivery_policy
+display_name
+ec2_url
+policy
+profile
+purge_subscriptions
+region
+security_token
+state
+subscriptions
+validate_certs

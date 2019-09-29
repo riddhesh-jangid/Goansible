@@ -1,0 +1,15 @@
+api_id
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+deploy_desc
+ec2_url
+profile
+region
+security_token
+stage
+state
+swagger_dict
+swagger_file
+swagger_text
+validate_certs

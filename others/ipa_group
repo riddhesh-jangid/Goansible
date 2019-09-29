@@ -1,0 +1,13 @@
+description
+external
+gidnumber
+group
+ipa_host
+ipa_port
+ipa_prot
+ipa_timeout
+ipa_user
+nonposix
+state
+user
+validate_certs

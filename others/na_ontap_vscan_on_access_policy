@@ -1,0 +1,12 @@
+file_ext_to_exclude
+file_ext_to_include
+filters
+http_port
+https
+is_scan_mandatory
+max_file_size
+ontapi
+paths_to_exclude
+scan_files_with_no_ext
+state
+validate_certs

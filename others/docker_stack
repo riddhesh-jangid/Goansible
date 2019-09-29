@@ -1,0 +1,7 @@
+absent_retries
+absent_retries_interval
+compose
+prune
+resolve_image
+state
+with_registry_auth

@@ -1,0 +1,8 @@
+alert_policy_id
+alert_policy_name
+anti_affinity_policy_id
+anti_affinity_policy_name
+cpu
+memory
+state
+wait

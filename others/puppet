@@ -1,0 +1,15 @@
+certname
+debug
+environment
+execute
+facter_basename
+facts
+logdest
+manifest
+modulepath
+noop
+puppetmaster
+summarize
+tags
+timeout
+verbose

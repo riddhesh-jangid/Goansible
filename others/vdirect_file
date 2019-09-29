@@ -1,0 +1,7 @@
+validate_certs
+vdirect_http_port
+vdirect_https_port
+vdirect_secondary_ip
+vdirect_timeout
+vdirect_use_ssl
+vdirect_wait

@@ -1,0 +1,14 @@
+fetch_nested
+group_name
+namespace
+nested_attributes
+object_id
+object_name
+object_type
+poll_interval
+quota_name
+role
+state
+timeout
+user_name
+wait

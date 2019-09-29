@@ -1,0 +1,11 @@
+certificate_name
+description
+max_end_points
+output_level
+port
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

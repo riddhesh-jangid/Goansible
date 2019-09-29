@@ -1,0 +1,7 @@
+fetch_nested
+namespace
+nested_attributes
+poll_interval
+state
+timeout
+wait

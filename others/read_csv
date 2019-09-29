@@ -1,0 +1,7 @@
+delimiter
+dialect
+fieldnames
+key
+skipinitialspace
+strict
+unique

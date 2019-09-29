@@ -1,0 +1,13 @@
+border
+dr_prio
+hello_auth_key
+hello_interval
+jp_policy_in
+jp_policy_out
+jp_type_in
+jp_type_out
+neighbor_policy
+neighbor_type
+provider
+sparse
+state

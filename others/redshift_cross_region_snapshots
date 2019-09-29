@@ -1,0 +1,8 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+ec2_url
+profile
+security_token
+snapshot_copy_grant
+validate_certs

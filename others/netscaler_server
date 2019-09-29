@@ -1,0 +1,17 @@
+comment
+delay
+disabled
+domain
+domainresolveretry
+graceful
+ipaddress
+ipv6address
+name
+nitro_protocol
+nitro_timeout
+save_config
+state
+td
+translationip
+translationmask
+validate_certs

@@ -1,0 +1,16 @@
+certificate_name
+domain
+domain_type
+dscp
+encap_mode
+multicast_address
+output_level
+port
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs
+vm_provider
+vswitch

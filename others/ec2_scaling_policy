@@ -1,0 +1,12 @@
+adjustment_type
+aws_access_key
+aws_secret_key
+cooldown
+debug_botocore_endpoint_logs
+ec2_url
+min_adjustment_step
+profile
+region
+scaling_adjustment
+security_token
+validate_certs

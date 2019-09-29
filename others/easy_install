@@ -1,0 +1,5 @@
+executable
+state
+virtualenv
+virtualenv_command
+virtualenv_site_packages

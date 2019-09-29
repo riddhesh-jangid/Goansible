@@ -1,0 +1,6 @@
+ntp_servers
+provider
+server_port
+state
+timezone
+validate_certs

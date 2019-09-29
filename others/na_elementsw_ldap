@@ -1,0 +1,10 @@
+authType
+groupSearchBaseDn
+groupSearchCustomFilter
+groupSearchType
+searchBindDN
+searchBindPassword
+serverURIs
+userDNTemplate
+userSearchBaseDN
+userSearchFilter

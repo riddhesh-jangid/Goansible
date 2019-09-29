@@ -1,0 +1,14 @@
+folder
+force
+hostname
+name
+name_match
+password
+port
+scheduled_at
+state
+state_change_timeout
+use_instance_uuid
+username
+uuid
+validate_certs

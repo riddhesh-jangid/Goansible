@@ -1,0 +1,11 @@
+description
+fetch_nested
+hosts
+id
+nested_attributes
+parent
+poll_interval
+state
+timeout
+vms
+wait

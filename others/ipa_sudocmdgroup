@@ -1,0 +1,9 @@
+description
+ipa_host
+ipa_port
+ipa_prot
+ipa_timeout
+ipa_user
+state
+sudocmd
+validate_certs

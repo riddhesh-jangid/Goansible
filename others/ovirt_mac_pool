@@ -1,0 +1,10 @@
+allow_duplicates
+description
+fetch_nested
+id
+nested_attributes
+poll_interval
+ranges
+state
+timeout
+wait

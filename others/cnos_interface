@@ -1,0 +1,12 @@
+aggregate
+delay
+description
+duplex
+enabled
+mtu
+neighbors
+provider
+rx_rate
+speed
+state
+tx_rate

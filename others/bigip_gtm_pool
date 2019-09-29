@@ -1,0 +1,15 @@
+alternate_lb_method
+availability_requirements
+fallback_ip
+fallback_lb_method
+max_answers_returned
+members
+monitors
+partition
+preferred_lb_method
+provider
+server_port
+state
+ttl
+type
+validate_certs

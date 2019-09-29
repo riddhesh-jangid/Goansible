@@ -1,0 +1,16 @@
+api_key
+auth_endpoint
+credentials
+description
+env
+identity_type
+image
+meta
+region
+snapshot_id
+tenant_id
+tenant_name
+username
+validate_certs
+wait
+wait_timeout

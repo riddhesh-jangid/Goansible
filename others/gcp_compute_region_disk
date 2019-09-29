@@ -1,0 +1,15 @@
+description
+disk_encryption_key
+labels
+licenses
+physical_block_size_bytes
+project
+scopes
+service_account_contents
+service_account_email
+service_account_file
+size_gb
+source_snapshot
+source_snapshot_encryption_key
+state
+type

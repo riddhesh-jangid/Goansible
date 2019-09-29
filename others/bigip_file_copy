@@ -1,0 +1,9 @@
+datastore
+force
+name
+partition
+provider
+server_port
+source
+state
+validate_certs

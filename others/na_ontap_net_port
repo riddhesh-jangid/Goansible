@@ -1,0 +1,11 @@
+autonegotiate_admin
+duplex_admin
+flowcontrol_admin
+http_port
+https
+ipspace
+mtu
+ontapi
+speed_admin
+state
+validate_certs

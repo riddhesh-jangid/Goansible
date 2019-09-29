@@ -1,0 +1,11 @@
+http_port
+https
+junction_path
+ontapi
+parent_snapshot
+parent_vserver
+qos_policy_group_name
+space_reserve
+state
+validate_certs
+volume_type

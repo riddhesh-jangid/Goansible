@@ -1,0 +1,11 @@
+ci
+executable
+global
+ignore_scripts
+name
+path
+production
+registry
+state
+unsafe_perm
+version

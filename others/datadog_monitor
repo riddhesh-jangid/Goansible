@@ -1,0 +1,17 @@
+escalation_message
+evaluation_delay
+id
+locked
+message
+new_host_delay
+no_data_timeframe
+notify_audit
+notify_no_data
+query
+renotify_interval
+require_full_window
+silenced
+tags
+thresholds
+timeout_h
+type

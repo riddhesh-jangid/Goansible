@@ -1,0 +1,5 @@
+tower_config_file
+tower_host
+tower_password
+tower_username
+validate_certs

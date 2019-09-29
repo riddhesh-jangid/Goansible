@@ -1,0 +1,10 @@
+command
+end_host_power_state
+export_format
+export_use
+idrac_port
+scp_components
+scp_file
+share_password
+share_user
+shutdown_type

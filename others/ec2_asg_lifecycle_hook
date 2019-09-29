@@ -1,0 +1,14 @@
+aws_access_key
+aws_secret_key
+debug_botocore_endpoint_logs
+default_result
+ec2_url
+heartbeat_timeout
+notification_meta_data
+notification_target_arn
+profile
+region
+role_arn
+security_token
+state
+validate_certs

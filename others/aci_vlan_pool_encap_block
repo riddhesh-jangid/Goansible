@@ -1,0 +1,16 @@
+allocation_mode
+block_end
+block_name
+block_start
+certificate_name
+description
+output_level
+pool
+pool_allocation_mode
+port
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

@@ -1,0 +1,16 @@
+aggr_list
+allowed_protocols
+comment
+from_name
+http_port
+https
+ipspace
+language
+ontapi
+root_volume
+root_volume_aggregate
+root_volume_security_style
+snapshot_policy
+state
+subtype
+validate_certs

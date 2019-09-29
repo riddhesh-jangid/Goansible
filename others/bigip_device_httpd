@@ -1,0 +1,16 @@
+allow
+auth_name
+auth_pam_dashboard_timeout
+auth_pam_idle_timeout
+auth_pam_validate_ip
+fast_cgi_timeout
+hostname_lookup
+log_level
+max_clients
+provider
+redirect_http_to_https
+server_port
+ssl_cipher_suite
+ssl_port
+ssl_protocols
+validate_certs

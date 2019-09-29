@@ -1,0 +1,6 @@
+local_max_checkpoints
+provider
+remote_max_checkpoints
+rescue_location
+rollback_location
+state

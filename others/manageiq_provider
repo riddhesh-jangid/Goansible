@@ -1,0 +1,14 @@
+alerts
+api_version
+azure_tenant_id
+host_default_vnc_port_end
+host_default_vnc_port_start
+metrics
+project
+provider
+provider_region
+ssh_keypair
+state
+subscription
+tenant_mapping_enabled
+zone

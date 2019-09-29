@@ -1,0 +1,17 @@
+destination_path
+destination_volume
+destination_vserver
+http_port
+https
+ontapi
+policy
+relationship_type
+schedule
+source_hostname
+source_password
+source_path
+source_username
+source_volume
+source_vserver
+state
+validate_certs

@@ -1,0 +1,6 @@
+cpm_password
+cpm_username
+plug_state
+use_https
+use_proxy
+validate_certs

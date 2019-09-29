@@ -1,0 +1,12 @@
+cluster
+copy
+datacenter
+directory
+fetch
+folder
+hostname
+password
+port
+username
+validate_certs
+vm_id_type

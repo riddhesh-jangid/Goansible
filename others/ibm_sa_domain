@@ -1,0 +1,10 @@
+hard_capacity
+ldap_id
+max_cgs
+max_dms
+max_mirrors
+max_pools
+max_volumes
+perf_class
+size
+soft_capacity

@@ -1,0 +1,13 @@
+client_cert
+client_key
+grafana_api_key
+message
+org_id
+overwrite
+path
+slug
+uid
+url_password
+url_username
+use_proxy
+validate_certs

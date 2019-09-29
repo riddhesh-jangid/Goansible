@@ -1,0 +1,14 @@
+cpu_expandable_reservations
+cpu_limit
+cpu_reservation
+cpu_shares
+hostname
+mem_expandable_reservations
+mem_limit
+mem_reservation
+mem_shares
+password
+port
+state
+username
+validate_certs

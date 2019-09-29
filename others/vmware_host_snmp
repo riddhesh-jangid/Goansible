@@ -1,0 +1,13 @@
+community
+hostname
+hw_source
+log_level
+password
+port
+send_trap
+snmp_port
+state
+trap_filter
+trap_targets
+username
+validate_certs

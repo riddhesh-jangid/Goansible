@@ -1,0 +1,13 @@
+arguments
+chdir
+creates_path
+creates_service
+creates_version
+expected_return_code
+log_path
+password
+path
+product_id
+state
+username
+validate_certs

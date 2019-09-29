@@ -1,0 +1,10 @@
+description
+enable_flow_logs
+private_ip_google_access
+project
+scopes
+secondary_ip_ranges
+service_account_contents
+service_account_email
+service_account_file
+state

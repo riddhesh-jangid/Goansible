@@ -1,0 +1,17 @@
+auth_key
+host
+org_id
+org_name
+output_level
+peer_ips
+state
+timeout
+use_https
+use_proxy
+v2c_enabled
+v3_auth_mode
+v3_auth_pass
+v3_enabled
+v3_priv_mode
+v3_priv_pass
+validate_certs

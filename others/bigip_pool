@@ -1,0 +1,17 @@
+aggregate
+description
+lb_method
+metadata
+monitor_type
+monitors
+partition
+priority_group_activation
+provider
+quorum
+replace_all_with
+reselect_tries
+server_port
+service_down_action
+slow_ramp_time
+state
+validate_certs

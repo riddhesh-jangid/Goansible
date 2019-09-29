@@ -1,0 +1,7 @@
+evpn
+route_distinguisher
+state
+vpn_target_state
+vpn_target_type
+vpn_target_value
+vrf_aftype

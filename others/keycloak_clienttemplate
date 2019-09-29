@@ -1,0 +1,11 @@
+attributes
+auth_client_secret
+description
+full_scope_allowed
+id
+name
+protocol
+protocol_mappers
+realm
+state
+validate_certs

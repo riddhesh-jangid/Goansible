@@ -1,0 +1,17 @@
+allow_unauthenticated
+autoclean
+autoremove
+cache_valid_time
+deb
+default_release
+dpkg_options
+force
+force_apt_get
+install_recommends
+name
+only_upgrade
+policy_rc_d
+purge
+state
+update_cache
+upgrade

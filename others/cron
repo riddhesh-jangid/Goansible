@@ -1,0 +1,17 @@
+backup
+cron_file
+day
+disabled
+env
+hour
+insertafter
+insertbefore
+job
+minute
+month
+name
+reboot
+special_time
+state
+user
+weekday

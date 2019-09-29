@@ -1,0 +1,16 @@
+admin_state
+aggregate
+delay
+description
+duplex
+fabric_forwarding_anycast_gateway
+interface_type
+ip_forward
+mode
+mtu
+neighbors
+provider
+rx_rate
+speed
+state
+tx_rate

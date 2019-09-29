@@ -1,0 +1,10 @@
+esxi_hostname
+hostname
+mtu
+nics
+number_of_ports
+password
+port
+state
+username
+validate_certs

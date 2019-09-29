@@ -1,0 +1,13 @@
+aggregate
+auth_pass
+authorize
+delay
+description
+enabled
+mtu
+neighbors
+provider
+rx_rate
+speed
+state
+tx_rate

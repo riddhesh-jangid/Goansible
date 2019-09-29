@@ -1,0 +1,7 @@
+hostname
+password
+port
+primary_pvlans
+secondary_pvlans
+username
+validate_certs

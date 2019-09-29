@@ -1,0 +1,9 @@
+attributes
+bind_dn
+bind_pw
+objectClass
+params
+server_uri
+start_tls
+state
+validate_certs

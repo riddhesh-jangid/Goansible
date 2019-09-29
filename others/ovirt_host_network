@@ -1,0 +1,13 @@
+bond
+check
+fetch_nested
+interface
+labels
+nested_attributes
+networks
+poll_interval
+save
+state
+sync_networks
+timeout
+wait

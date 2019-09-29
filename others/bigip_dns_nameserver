@@ -1,0 +1,9 @@
+address
+partition
+provider
+route_domain
+server_port
+service_port
+state
+tsig_key
+validate_certs

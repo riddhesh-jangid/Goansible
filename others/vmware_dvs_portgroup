@@ -1,0 +1,9 @@
+hostname
+network_policy
+password
+port
+port_policy
+teaming_policy
+username
+validate_certs
+vlan_trunk

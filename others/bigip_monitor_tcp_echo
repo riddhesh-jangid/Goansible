@@ -1,0 +1,11 @@
+description
+interval
+ip
+parent
+partition
+provider
+server_port
+state
+time_until_up
+timeout
+validate_certs

@@ -1,0 +1,13 @@
+api_http_method
+api_key
+api_region
+api_secret
+api_timeout
+api_url
+display_text
+poll_async
+service_capabilities
+service_offering
+service_providers
+state
+supported_services

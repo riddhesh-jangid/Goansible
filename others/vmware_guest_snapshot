@@ -1,0 +1,17 @@
+description
+folder
+hostname
+memory_dump
+name
+name_match
+new_description
+new_snapshot_name
+password
+port
+quiesce
+remove_children
+snapshot_name
+use_instance_uuid
+username
+uuid
+validate_certs

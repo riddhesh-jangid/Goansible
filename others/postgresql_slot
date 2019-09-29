@@ -1,0 +1,13 @@
+ca_cert
+db
+immediately_reserve
+login_host
+login_password
+login_unix_socket
+login_user
+output_plugin
+port
+session_role
+slot_type
+ssl_mode
+state

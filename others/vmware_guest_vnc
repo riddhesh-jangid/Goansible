@@ -1,0 +1,14 @@
+datacenter
+folder
+hostname
+name
+name_match
+password
+port
+state
+username
+uuid
+validate_certs
+vnc_ip
+vnc_password
+vnc_port

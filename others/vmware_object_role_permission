@@ -1,0 +1,10 @@
+group
+hostname
+object_type
+password
+port
+principal
+recursive
+state
+username
+validate_certs

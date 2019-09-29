@@ -1,0 +1,11 @@
+configure_priv
+force
+node
+password
+permissions
+read_priv
+state
+tags
+update_password
+vhost
+write_priv

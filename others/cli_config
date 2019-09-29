@@ -1,0 +1,12 @@
+backup
+backup_options
+commit
+commit_comment
+config
+defaults
+diff_ignore_lines
+diff_match
+diff_replace
+multiline_delimiter
+replace
+rollback

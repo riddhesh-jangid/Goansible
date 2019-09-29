@@ -1,0 +1,11 @@
+compute_environment_name
+compute_resource_type
+instance_role
+instance_types
+maxv_cpus
+minv_cpus
+security_group_ids
+service_role
+state
+subnets
+type

@@ -1,0 +1,17 @@
+description
+fabric
+max_data
+org_dn
+pin_group
+port
+proxy
+qos_policy
+redundancy_type
+state
+stats_policy
+template_type
+use_proxy
+use_ssl
+username
+vsan
+wwpn_pool

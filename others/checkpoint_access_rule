@@ -1,0 +1,11 @@
+action
+auto_install_policy
+auto_publish_session
+destination
+enabled
+name
+policy_package
+position
+source
+state
+targets

@@ -1,0 +1,5 @@
+cluster_name
+drs_rule_name
+host_group_name
+state
+vm_group_name

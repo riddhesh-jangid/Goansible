@@ -1,0 +1,47 @@
+import random
+import string
+import os
+from register import registerObj
+import writer
+
+class avi_poolgroupdeploymentpolicy:
+    playbook_name = ''
+    hosts=[]
+    register=[]
+    name = ''
+    api_context = ''
+    api_version = ''
+    auto_disable_old_prod_pools = ''
+    avi_api_patch_op = ''
+    avi_api_update_method = ''
+    avi_credentials = ''
+    cloud_ref = ''
+    controller = ''
+    description = ''
+    evaluation_duration = ''
+    password = ''
+    rules = ''
+    scheme = ''
+    state = ''
+    target_test_traffic_ratio = ''
+    tenant = ''
+    tenant_ref = ''
+    tenant_uuid = ''
+    test_traffic_ratio_rampup = ''
+    url = ''
+    username = ''
+    uuid = ''
+    webhook_ref = ''
+    def compile(self):
+       self.playbook_name=writer.writer(self,self.playbook_name)
+
+    def run(self):
+       dump_name=''.join([random.choice(string.ascii_letters + string.digits) for n in range(32)])
+       os.system('{} | tee {}'.format(self.playbook_name,dump_name))
+       self.register = registerObj(dump_name)
+       os.remove(dump_name)
+
+    def go(self):
+       self.compile()
+       self.run()
+

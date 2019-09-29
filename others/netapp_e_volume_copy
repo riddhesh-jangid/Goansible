@@ -1,0 +1,8 @@
+create_copy_pair_if_does_not_exist
+destination_volume_id
+search_volume_id
+source_volume_id
+ssid
+start_stop_copy
+validate_certs
+volume_copy_pair_id

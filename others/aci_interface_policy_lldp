@@ -1,0 +1,12 @@
+certificate_name
+description
+output_level
+port
+receive_state
+state
+timeout
+transmit_state
+use_proxy
+use_ssl
+username
+validate_certs

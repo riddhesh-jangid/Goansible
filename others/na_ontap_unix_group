@@ -1,0 +1,7 @@
+http_port
+https
+id
+ontapi
+skip_name_validation
+state
+validate_certs

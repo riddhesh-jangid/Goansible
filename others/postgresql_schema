@@ -1,0 +1,12 @@
+ca_cert
+cascade_drop
+database
+login_host
+login_password
+login_unix_socket
+login_user
+owner
+port
+session_role
+ssl_mode
+state

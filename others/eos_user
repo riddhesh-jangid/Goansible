@@ -1,0 +1,13 @@
+aggregate
+auth_pass
+authorize
+configured_password
+name
+nopassword
+privilege
+provider
+purge
+role
+sshkey
+state
+update_password

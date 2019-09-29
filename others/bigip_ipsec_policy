@@ -1,0 +1,17 @@
+auth_algorithm
+description
+encrypt_algorithm
+ipcomp
+kb_lifetime
+lifetime
+mode
+partition
+perfect_forward_secrecy
+protocol
+provider
+route_domain
+server_port
+state
+tunnel_local_address
+tunnel_remote_address
+validate_certs

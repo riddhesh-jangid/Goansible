@@ -1,0 +1,15 @@
+from_address
+hostname_in_subject
+http_port
+https
+mail_hosts
+noteto
+ontapi
+partner_addresses
+post_url
+proxy_url
+state
+support
+to_addresses
+transport
+validate_certs

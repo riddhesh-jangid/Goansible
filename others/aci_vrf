@@ -1,0 +1,14 @@
+certificate_name
+description
+output_level
+policy_control_direction
+policy_control_preference
+port
+state
+tenant
+timeout
+use_proxy
+use_ssl
+username
+validate_certs
+vrf

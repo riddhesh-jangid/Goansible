@@ -1,0 +1,15 @@
+certificate_name
+description
+export_policy
+format
+include_secure
+max_count
+output_level
+port
+snapshot
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs

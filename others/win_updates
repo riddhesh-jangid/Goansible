@@ -1,0 +1,9 @@
+blacklist
+category_names
+log_path
+reboot
+reboot_timeout
+server_selection
+state
+use_scheduled_task
+whitelist

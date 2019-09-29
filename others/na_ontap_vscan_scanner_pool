@@ -1,0 +1,8 @@
+hostnames
+http_port
+https
+ontapi
+privileged_users
+scanner_policy
+state
+validate_certs

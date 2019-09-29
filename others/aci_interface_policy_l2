@@ -1,0 +1,13 @@
+certificate_name
+description
+output_level
+port
+qinq
+state
+timeout
+use_proxy
+use_ssl
+username
+validate_certs
+vepa
+vlan_scope
