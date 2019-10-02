@@ -18,6 +18,7 @@ That's it...You don't need to write any playbook. There are four main steps for 
 > 4. Call go function
 
 ***You need to open python interpreter in the same directory of goansible***
+***You don't need to setup goasnible when you clone from here. Direct use goansible after download***
 
 #### 1 Import Module
 Name of module is same as name of module in ansible. Importing is easy we need to import module from anso like:
