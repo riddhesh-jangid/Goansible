@@ -1,4 +1,3 @@
-# goansible
 **Automate with python on ansible :)**
 
 #### Install Httpd on all server
@@ -70,7 +69,15 @@ on only on two IPs 172.17.0.2 and 172.17.0.3
 
                  or
                  
-*object_name.hosts = ["172.17.0.2","172.17.0.3"]*                 
+*object_name.hosts = ["172.17.0.2","172.17.0.3"]*  
+
+### How to find module for any any task
+
+```
+from suggest import search_module
+print(search_module("start service"))
+print(search_module("Install httpd"))
+```
 
 ### Possibility in goansible
 1 We can use powerfull python libraries while automate<br/>
@@ -78,6 +85,30 @@ on only on two IPs 172.17.0.2 and 172.17.0.3
 3 Can be a fast debugging tool because we can operate it on python interpreter<br/>
 4 Modularity and reusability in code<br/>
 5 We can develop GUI for different purpose using tkinter,PyGTK etc.<br/>
+
+### Files Structure
+
+--ansible.cfg [ansible configuration file]<br/>
+|<br/>
+--compulsery [Directory] [Files carry compulsery attributes of every module] [Used in setup]<br/>
+|<br/>
+--hosts [ansible host file]<br/>
+|<br/>
+--setup2.py [Used in setup]<br/>
+|<br/>
+--suggest.py [Suggest which module to use for any task]<br/>
+|<br/>
+--writer.py [writer of goansible]<br/>
+|<br/>
+--anso [Director] [Contains classes of all modules] [Used for writer]<br/>
+|<br/>
+--dictionary [List of all modules] [Used in setup]<br/>
+|<br/>
+--others [Directory] [Files carry other then compulsery attributes] [Used in setup]<br/>
+|<br/>
+--register.py [Insert values in register variable]<br/>
+|<br/>
+--setup.py [Used in setup]<br/>
 
 ### Extension of goansible
 This project is a prototype and have possibilities of extension in so many ways. 
