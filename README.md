@@ -1,4 +1,4 @@
-** :scroll: Goansible compiles python programs into ansible commands and execute them**
+** :scroll: Goansible compiles python programs into ansible commands and execute them **
 
 #### Install Httpd on all server
 
