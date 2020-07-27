@@ -2,7 +2,7 @@
 
 Goansible compiles python programs into ansible commands and execute them :computer:
 
-### Install Httpd on all server
+## Install Httpd on all server
 
 ```
 from anso.package import package
@@ -40,7 +40,7 @@ Attributes of module is also same as in ansible. Attributes are data members of 
 
 *object_name.go()*
 
-### Variables,Loops and conditions
+## Variables,Loops and conditions
 We can use python's variables,loops and conditions in goansible. Let we want to add users from a list
 
 ```
@@ -54,7 +54,7 @@ for name in user_list:
     adduser_task.go()
 ```
 
-### How to check status task/object
+## How to check status task/object
 Every object have a extra varibale called register. We can check status of last running task by its register attribute
 
 *print(obejct_name.register)*
@@ -63,7 +63,7 @@ register is a list so we can also extract value from register for further proced
 about 4th node we need to access object_name.register[4]. Information about any node is save in form of dictionary 
 so we can easily extract information by keys.
 
-### How to update hosts list
+## How to update hosts list
 By default hosts list is set to ALL but we can modify it by appending in it. Suppose we want that our task is run 
 on only on two IPs 172.17.0.2 and 172.17.0.3
 
@@ -74,7 +74,7 @@ on only on two IPs 172.17.0.2 and 172.17.0.3
                  
 *object_name.hosts = ["172.17.0.2","172.17.0.3"]*  
 
-### How to find module for any any task
+## How to find module for any any task
 
 ```
 from suggest import search_module
@@ -82,14 +82,14 @@ print(search_module("start service"))
 print(search_module("Install httpd"))
 ```
 
-### Possibility in goansible
+## Possibility in goansible
 1 We can use powerfull python libraries while automate<br/>
 2 More comfortable for core python developer<br/>
 3 Can be a fast debugging tool because we can operate it on python interpreter<br/>
 4 Modularity and reusability in code<br/>
 5 We can develop GUI for different purpose using tkinter,PyGTK etc.<br/>
 
-### Files Structure
+## Files Structure
 
 --ansible.cfg [ansible configuration file]<br/>
 |<br/>
@@ -113,5 +113,5 @@ print(search_module("Install httpd"))
 |<br/>
 --setup.py [Used in setup]<br/>
 
-### Extension of goansible
+## Extension of goansible
 This project is a prototype and have possibilities of extension in so many ways. 
